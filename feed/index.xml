@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My Personal Website</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Jun 2023 12:00:51 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Hello, world!</title>
+		<link>/2023/06/02/ola-mundo/</link>
+					<comments>/2023/06/02/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Fri, 02 Jun 2023 18:38:03 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Olá, eu sou o Lucas e tenho 21 anos de idade. Desde de 2021, tenho cursado ciência da computação na Universidade Federal de Alfenas que fica bem perto cidade de onde vim, Carmo do Rio Claro. Atualmente, no quinto período, estou tendo contato com diversas disciplinas interessantes no curso (umas nove) e minha preferida é [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Olá, eu sou o Lucas e tenho 21 anos de idade. Desde de 2021, tenho cursado ciência da computação na Universidade Federal de Alfenas que fica bem perto cidade de onde vim, Carmo do Rio Claro. Atualmente, no quinto período, estou tendo contato com diversas disciplinas interessantes no curso (umas nove) e minha preferida é inteligência artificial, pois pretendo seguir na área de Data Science e Machine Learning.</p>
+
+
+
+<div style="height:85px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-2">
+<div class="wp-block-column is-layout-flow">
+<h2 class="wp-block-heading has-text-align-left">Passatempos e interesses pessoais</h2>
+</div>
+</div>
+
+
+
+<h3 class="wp-block-heading">Skateboard</h3>
+
+
+
+<p>Meu esporte favorito é a prática do &#8220;street skateboarding&#8221; que consiste em utilizar o skate para lidar com obstáculos urbanos e realizar manobras em locais públicos. Com 14 anos ganhei meu primeiro skate e pratiquei o esporte intensamente durante dois anos. Atualmente, saio para andar de skate poucas vez devido às mudanças nas prioridades mas ainda é uma grande paixão que tenho.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="480" height="920" src="/wp-content/uploads/2023/06/kick-skate.gif" alt="" class="wp-image-26"/></figure>
+
+
+
+<div style="height:91px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">League of Legends e TFT</h3>
+
+
+
+<p>Não me considero gamer pois nunca tive interesse por diversos jogos, mas sim por um único que comecei lá em 2013. League of Legends foi minha diversão durante a adolescência, onde diversas horas foram dedicadas à botlane principalmente na posição de ADC (atirador). Hoje em dia, raramente entro para jogar uma partida normal/ranqueada, geralmente prefiro um TFT, mas sempre que jogo no Summoner&#8217;s Rift escolho o meu campeão favorito, a Kai&#8217;sa.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1366" height="768" src="/wp-content/uploads/2023/06/penta-kaisa.png" alt="" class="wp-image-24"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1366" height="768" src="/wp-content/uploads/2023/06/dima-lolzin.png" alt="" class="wp-image-25"/></figure>
+
+
+
+<div style="height:91px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Livros</h3>
+
+
+
+<p>Em 2017, pela primeira vez em minha vida eu escolhi por vontade própria um livro e o li do início ao fim, marcando então o início de um hábito e interesse pessoal que tenho até hoje. Meus temas favoritos são livros que tratem sobre filosofia grega (Platão e Aristóteles) e economia (principalmente os livros de Ludwig von Mises). Atualmente, tenho seguido o Projeto Polímata que contém listas de leitura em diversas áreas do conhecimento: <a rel="noreferrer noopener" href="https://contraosacademicos.com.br/public/biblioteca/o-ordenamento-das-leituras" target="_blank">Lista | O Ordenamento das Leituras</a>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3024" height="4032" src="/wp-content/uploads/2023/06/meus-livros.png" alt="" class="wp-image-10"/></figure>
+
+
+
+<div style="height:132px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">10 Curiosidades sobre mim</h3>
+
+
+
+<ul>
+<li class="has-medium-font-size"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3b6.png" alt="🎶" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ouço desde <strong>Dubstep </strong>até música Erudita (Skrillex <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f91d.png" alt="🤝" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chopin)</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f6f9.png" alt="🛹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> A manobra que eu mais gosto de mandar no skate é o <strong>360 Flip</strong> </li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Por mim todo dia deveria ser dia de <strong>Costas </strong>+ Bíceps</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4da.png" alt="📚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Leio majoritariamente <strong>filosofia </strong>e economia</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Namoro há quase <strong>três </strong>anos</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f40d.png" alt="🐍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Python </strong>acima de tudo e Javascript acima de todos</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f355.png" alt="🍕" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Se eu pudesse comeria apenas <strong>pizza </strong>pelo resto da vida</li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f310.png" alt="🌐" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ich spreche etwas deutsch <em>et un peut de <strong>français</strong></em></li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f5a5.png" alt="🖥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Quase convertido ao <strong>Linux</strong></li>
+
+
+
+<li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f3ae.png" alt="🎮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Só jogo se for <strong>TFT </strong>ou URF no lolzinho</li>
+</ul>
+
+
+
+<div style="height:128px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Formação Acadêmica</h2>
+
+
+
+<h4 class="wp-block-heading">Universidade Federal de Alfenas &#8211; Alfenas</h4>
+
+
+
+<ul>
+<li>Graduando em ciência da computação</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Instituto de Educação e Cultura &#8211; Carmo do Rio Claro</h4>
+
+
+
+<ul>
+<li>Ensino médio completo</li>
+
+
+
+<li>Ensino fundamental completo</li>
+</ul>
+
+
+
+<div style="height:124px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Endereço e Contato</h2>
+
+
+
+<p> Av. Jovino Fernandes de Sales, 2600 &#8211; Santa Clara, Alfenas &#8211; MG, 37133-840</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<ul class="wp-block-social-links is-content-justification-center is-layout-flex wp-container-3"><li class="wp-social-link wp-social-link-github wp-block-social-link"><a href="https://github.com/LucasclFerreira" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,2C6.477,2,2,6.477,2,12c0,4.419,2.865,8.166,6.839,9.489c0.5,0.09,0.682-0.218,0.682-0.484 c0-0.236-0.009-0.866-0.014-1.699c-2.782,0.602-3.369-1.34-3.369-1.34c-0.455-1.157-1.11-1.465-1.11-1.465 c-0.909-0.62,0.069-0.608,0.069-0.608c1.004,0.071,1.532,1.03,1.532,1.03c0.891,1.529,2.341,1.089,2.91,0.833 c0.091-0.647,0.349-1.086,0.635-1.337c-2.22-0.251-4.555-1.111-4.555-4.943c0-1.091,0.39-1.984,1.03-2.682 C6.546,8.54,6.202,7.524,6.746,6.148c0,0,0.84-0.269,2.75,1.025C10.295,6.95,11.15,6.84,12,6.836 c0.85,0.004,1.705,0.114,2.504,0.336c1.909-1.294,2.748-1.025,2.748-1.025c0.546,1.376,0.202,2.394,0.1,2.646 c0.64,0.699,1.026,1.591,1.026,2.682c0,3.841-2.337,4.687-4.565,4.935c0.359,0.307,0.679,0.917,0.679,1.852 c0,1.335-0.012,2.415-0.012,2.741c0,0.269,0.18,0.579,0.688,0.481C19.138,20.161,22,16.416,22,12C22,6.477,17.523,2,12,2z"></path></svg><span class="wp-block-social-link-label screen-reader-text">GitHub</span></a></li>
+
+<li class="wp-social-link wp-social-link-instagram wp-block-social-link"><a href="https://www.instagram.com/lucascl.ferreira/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li>
+
+<li class="wp-social-link wp-social-link-mail wp-block-social-link"><a href="mailto:lucascosta.ferreira@sou.unifal-mg.edu.br" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M20,4H4C2.895,4,2,4.895,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.895,21.105,4,20,4z M20,8.236l-8,4.882 L4,8.236V6h16V8.236z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Mail</span></a></li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/06/02/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
